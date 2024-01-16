@@ -1,0 +1,146 @@
+Name,DesignationName,CurrentJobPosition,NumberofMonthsLastPromotions,Education,DepartmentName,TotalPromotions,Salary,lastSalaryHike,Age,Gender,MaritalStatus,Address,TotalYearCompany,TotalExperience,Active
+FulMiaTukdar,Regional Manager,180,15,NULL,SUPPORT Operation,0,12500,NULL,NULL,Male,Married,,180,180,1
+DipankurChandraDas,Branch Manager,26,26,BA(Pass),SUPPORT Operation,1,6015,0,NULL,Male,NULL,,94,94,1
+Emran Hossain,Office Assistant,262,21,PSC,SUPPORT Operation,0,4224,NULL,NULL,Male,Married,,262,262,1
+Md. Sajeduzzaman,Field Officer,59,5,MA,SUPPORT Operation,0,5000,NULL,33,Male,Married,Garagram,59,59,1
+Md.NazimUddin,Assistant Branch Manager,161,13,HSC,SUPPORT Operation,0,7575,NULL,61,Male,Married,Boro Bapra,161,161,1
+NirmolChandraSarkar,Field Officer,49,4,MA,SUPPORT Operation,0,4764,NULL,NULL,Male,Unmarried,,49,49,1
+Md.Ashraful ArefinMridha,Deputy General Manager,101,8,M.com,SUPPORT Operation,0,23750,NULL,NULL,Male,Married,,101,101,1
+Md.ShamimUddin,Field Officer,24274,24274,HSC,SUPPORT Operation,1,5674,1,29,Male,Unmarried,,51,51,1
+Mostafijur Rahman,Branch Manager,72,6,BSS,SUPPORT Operation,0,7575,NULL,40,Male,Married,,72,72,1
+Khokon Ali,Field Officer,78,6,HSC,SUPPORT Operation,0,6015,NULL,26,Male,Married,,78,78,1
+Md.Jahid HasanMridha,Branch Manager,75,6,HSC,SUPPORT Operation,0,7050,NULL,26,Male,Married,,75,75,1
+Md.MasudRana,Branch Manager,17,17,NULL,SUPPORT Operation,1,6000,0,NULL,Male,NULL,,41,41,1
+Md.Abul KalamAzad,Branch Manager,92,7,BA(Pass),SUPPORT Operation,0,8030,NULL,43,Male,Married,,92,92,1
+Md.NazmulIslam,Branch Manager,94,7,BA(Pass),SUPPORT Operation,0,6742,NULL,NULL,Male,Unmarried,".Polasuna,Gacha.Gacha Road",94,94,1
+Md.AbubakarSiddique,Branch Manager,86,7,BA(Pass),SUPPORT Operation,0,8030,NULL,NULL,Male,Married,,86,86,1
+Zahid Hasan,Field Officer,61,5,HSC,SUPPORT Operation,0,5000,NULL,NULL,Male,Married,,61,61,1
+Md.SharifulIslam,Field Officer,41,3,BBA,SUPPORT Operation,0,6015,NULL,NULL,Male,Married,,41,41,1
+Md.GolamMostofa,Branch Manager,51,4,MA,SUPPORT Operation,0,5674,NULL,NULL,Male,Married,,51,51,1
+Ruhul Kuddus,Branch Manager,31,31,NULL,SUPPORT Operation,1,7575,1,NULL,Male,Married,,68,68,1
+Md.RobiulIslam,Field Officer,48,4,HSC,SUPPORT Operation,0,4764,NULL,NULL,Male,NULL,,48,48,1
+ShonjoyKumarDas,Field Officer,44,3,NULL,SUPPORT Operation,0,5500,NULL,NULL,Male,Unmarried,,44,44,1
+AjitKumarDebnath,Branch Manager,38,38,NULL,SUPPORT Operation,1,8511,1,NULL,Male,Married,,47,47,1
+Nasim Mia,Field Officer,44,3,HSC,SUPPORT Operation,0,6000,NULL,NULL,Male,Married,,44,44,1
+Md.TaimurHossain,Regional Manager,86,7,BA(Pass),SUPPORT Operation,0,15781,NULL,58,Male,Married,29Shahid Moshiur Rahman Sharak,86,86,1
+Monoronjon Roy,Branch Manager,53,4,BA(Pass),SUPPORT Operation,0,8511,NULL,47,Male,Married,Ratirampur,53,53,1
+Md.ShamimSha,Branch Manager,70,5,HSC,SUPPORT Operation,0,6000,NULL,28,Male,Married,Tetultala,70,70,1
+Md.IsmailHossain,Field Officer,78,6,Alim,SUPPORT Operation,0,6015,NULL,28,Male,Married,Roghunathpur,78,78,1
+Md.AorangjebArifin,Branch Manager,72,6,BBA,SUPPORT Operation,0,7575,NULL,35,Male,Married,Nolkhola,72,72,1
+Anamul Haq,Field Officer,30,30,BSS,SUPPORT Operation,1,6000,2000,30,Male,Married,Tatultala,40,40,1
+Md.ShowkatAli,Branch Manager,78,6,M.B.S,SUPPORT Operation,0,8030,NULL,34,Male,Married,Dohijore,78,78,1
+Md.SajjedulIslam,Branch Manager,61,5,NULL,SUPPORT Operation,0,6015,NULL,NULL,Male,Married,,61,61,1
+Md.AliulIslam,Branch Manager,64,5,NULL,SUPPORT Operation,0,10745,NULL,NULL,Male,Married,Dokkhin SingergariPoddar Para,64,64,1
+Md.RafijulIslam,Field Officer,64,5,HSC,SUPPORT Operation,0,5353,NULL,NULL,Male,Married,,64,64,1
+Ripon Islam,Field Officer,68,5,NULL,SUPPORT Operation,0,5000,NULL,NULL,Male,Unmarried,,68,68,1
+MdMomenUddin,Branch Manager,22,22,BA(Pass),SUPPORT Operation,1,16000,2000,NULL,Male,Married,,34,34,1
+KhandokerHanifBabu,Teller,60,5,MBA,Agent Banking Operation,0,6015,NULL,NULL,Male,Married,"Rahmatpur,Paradogair,Demra,Dhaka-1000",60,60,1
+Md.AsifAkand,Teller,59,5,NULL,Agent Banking Operation,0,5353,NULL,NULL,Male,Unmarried,,59,59,1
+Azimun Nahar,Teller,68,5,BA(Pass),Agent Banking Operation,0,5000,NULL,47,Female,Married,Damoder,68,68,1
+Snigdha Kundo,Teller,68,5,MA,Agent Banking Operation,0,5000,NULL,39,Female,Married,Tajpur,68,68,1
+Uzzal Sharkar,Teller,75,6,MSS(Sociology),Agent Banking Operation,0,8049,NULL,30,Male,Married,,75,75,1
+Md.SaddamHossain,Teller,59,5,NULL,Agent Banking Operation,0,5050,NULL,NULL,Male,Married,,59,59,1
+Sahida Akhter,Teller,71,6,NULL,Agent Banking Operation,0,5674,NULL,NULL,Female,Unmarried,,71,71,1
+Md.RobiulIslam,Teller,66,5,NULL,Agent Banking Operation,0,6758,NULL,NULL,Male,Married,,66,66,1
+Mst.FatemaAkter,Teller,46,3,HSC,Agent Banking Operation,0,5674,NULL,NULL,Male,Married,,46,46,1
+Md.HelalUddin,Teller,66,5,MA,Agent Banking Operation,0,6000,NULL,31,Male,Married,,66,66,1
+Md.RajuAhamed,Teller,72,6,MSS(Sociology),Agent Banking Operation,0,7593,NULL,2,Male,Married,,72,72,1
+Mst.FarhanaKhatun,Teller,44,3,BSS,Agent Banking Operation,0,6000,NULL,28,Female,Married,,44,44,1
+Md.ArifMia,Teller,45,3,NULL,Agent Banking Operation,0,5500,NULL,NULL,Male,Unmarried,,45,45,1
+Md.HafizurRahman,Executive Director,46,3,M.com (Accounting),SUPPORT Operation,0,50000,NULL,NULL,Male,Married,,46,46,1
+Md.MizanurRahman,Internal Auditor,84,7,BBA,SUPPORT Operation,0,23750,NULL,NULL,Male,Married,,84,84,1
+ShabbirAlam,Junior Internal Auditor,72,6,NULL,SUPPORT Operation,0,14250,NULL,NULL,Male,Married,,72,72,1
+Pima Imam,Cheif Executive Officer,61,5,MSS(Sociology),Management,0,0,NULL,NULL,Female,NULL,,61,61,1
+Md.SharifulIslam,General Manager,105,8,NULL,Support Accounts,0,5000,NULL,NULL,Male,Married,,105,105,1
+MdArifulIslam Pilot,Manager,20,20,MBA,Human Resource,1,1,1,42,Male,Married,Nahar Monjil190/1Malibag Bazar RoadMalibag,66,66,1
+Sharmi Nandy,Assistant Coordinator,51,4,MBA,Human Resource,0,0,NULL,NULL,Female,Married,,51,51,1
+Md.KamrulIslam,Field Officer,33,2,NULL,SUPPORT Operation,0,5000,NULL,28,Male,Unmarried,,33,33,1
+MdGoljarHossain,Field Officer,33,2,Diploma In Agriculture,SUPPORT Operation,0,12029,NULL,30,Male,Married,,33,33,1
+Sheikh Saju,Field Officer,33,2,B.B.S,SUPPORT Operation,0,12029,NULL,28,Male,Unmarried,Purbo Barandi Para,33,33,1
+Md NurulAminPalash,Compliance Manager,94,7,NULL,SUPPORT Operation,0,0,NULL,NULL,Male,Married,,94,94,1
+Sumon Ahmed  ,Teller,20,20,M.com,Agent Banking Operation,1,6015,2029,28,Male,Married,,31,31,1
+Rafiya Yasmin,Teller,22,22,M.com,EDCABS,1,6000,2000,45,Female,Married,kartickul Main Road,35,35,1
+Md Vozedul Islam Last Name Not Found,Field Officer,25,2,Diploma,SUPPORT Operation,0,6015,NULL,28,Male,Married,Dangapara,25,25,1
+Md Mijanur Rahman ,Teller,26,2,LLB,Agent Banking Operation,0,12000,NULL,NULL,Male,Unmarried,Chinikol,26,26,1
+SyedaNazninNahar,Teller,21,1,MSS(Sociology),Agent Banking Operation,0,5000,NULL,35,Female,Married,Ramshidi,21,21,1
+JatindroNathBabu,Assistant Branch Manager,15,15,MSS(Sociology),SUPPORT Operation,1,7250,1250,35,Male,Married,Khamar Shadullapur,22,22,1
+MdAbdulMotin,Field Officer,13,13,HSC,SUPPORT Operation,1,6015,1015,34,Male,Married,Pakuria,22,22,1
+Md Mobarak Hossain Noyon ,Regional Manager,67,5,MBA,SUPPORT Operation,0,15000,NULL,28,Male,Unmarried,"26/3, West Jafrabad, Rayer Bazar,Rayer Bazar Community Center Goli",67,67,1
+Jubayer Hossain,Field Officer,10,10,BA(Pass),SUPPORT Operation,1,6000,1000,25,Male,Unmarried,Rampur,17,17,1
+Sumon Kumar Ray  ,Field Officer,14,1,B.com,SUPPORT Operation,0,6015,NULL,29,Male,Unmarried,Purba Doiljor,14,14,1
+Rashed Khan ,Field Officer,15,1,HSC,SUPPORT Operation,0,0,NULL,35,NULL,Married,Balia,15,15,1
+MdAsmaulHaque,Field Officer,11,1,BA(Pass),SUPPORT Operation,0,6000,NULL,33,Male,Unmarried,Uttor House Nagor,11,11,1
+MdJebinAli,Field Officer,17,1,BA (Hons.),SUPPORT Operation,0,0,NULL,25,Male,Unmarried,Harian Mridhapara,17,17,1
+Roky Ahmed ,Field Officer,12,1,HSC,SUPPORT Operation,0,63754,NULL,21,Male,Unmarried,Makapur,12,12,1
+MdMahfizurRahman,Teller,15,1,B.B.S,Agent Banking Operation,0,0,NULL,32,Male,Married,Mohonpur,15,15,1
+MdMizanurRahman,General Manager,93,7,MA,SUPPORT Operation,0,30000,NULL,60,Male,Married,17/15 Azam Road,93,93,1
+Imran Hossain,Field Officer,9,0,HSC,SUPPORT Operation,0,6015,NULL,27,Male,NULL,"Amlapara, Goila",9,9,1
+Md. Rajib Hosen,Field Officer,9,0,HSC,SUPPORT Operation,0,6015,NULL,24,Male,Married,Uttar char onchal,9,9,1
+Shahin Allom,Field Officer,8,0,HSC,SUPPORT Operation,0,6015,NULL,23,Male,Unmarried,dokhin Protap pur,8,8,1
+Md. Lavelu Mia,Field Officer,8,0,HSC,SUPPORT Operation,0,6000,NULL,22,Male,Unmarried,rampur,8,8,1
+Suvasish Banerjee,Assistant Branch Manager,7,0,BA(Pass),SUPPORT Operation,0,15000,NULL,35,Male,Unmarried,hazrapara,7,7,1
+Md. Rafiqur Rahman,Assistant Branch Manager,6,0,BSS,SUPPORT Operation,0,15000,NULL,32,Male,NULL,balditari,6,6,1
+Md. Mizanur Rahman,Assistant Branch Manager,5,0,BSS,SUPPORT Operation,0,15000,NULL,26,Male,Unmarried,chowbaria,5,5,1
+MD. NajmulHudaKhondaker,Junior Internal Auditor,4,0,MSS(Sociology),SUPPORT Operation,0,18584,NULL,29,Male,Unmarried,"Rajshashi, sugar mill, hariyan8/7",4,4,1
+MD Mithan Ali,Field Officer,4,0,HSC,SUPPORT Operation,0,12000,NULL,22,Male,Unmarried,nolkhola,4,4,1
+RadricRiponDey,Branch Manager,4,0,MSS(Sociology),SUPPORT Operation,0,18000,NULL,37,Male,Married,"west bogura road,munsh garesh,chowdori koyatar",4,4,1
+Shamim Hossain ,Field Officer,3,0,HSC,SUPPORT Operation,0,12000,NULL,22,Male,Unmarried,"badorgaha.hatbarbazar-7351,kaligonj,jehaidaho",3,3,1
+MD Mushfiqur Rahman  ,Branch Manager,3,0,BBA,SUPPORT Operation,0,18000,NULL,NULL,Male,Married,"majhgram,silaihao-7010, kumarkhali,Kustia",3,3,1
+Anath Chandra Ray  ,Field Officer,3,0,MA,SUPPORT Operation,0,12000,NULL,NULL,Male,Unmarried,"gosaibar,mahigonj-5403,Rangpur sadar, Rangpur",3,3,1
+Dhiraj Goshwami,Field Officer,3,0,BA(Pass),SUPPORT Operation,0,12000,NULL,26,Male,Unmarried,"gosaibar,mahigonj-5403,Rangpur sadar, Rangpur",3,3,1
+Shipon  ,Field Officer,3,0,HSC,SUPPORT Operation,0,12000,NULL,NULL,Male,Unmarried,"kosaibari, mahigonj-5403, rangpur sadar,rangpur",3,3,1
+MD AMIR HAMZA,Field Officer,3,0,HSC,SUPPORT Operation,0,12000,NULL,22,Male,Unmarried,"chandotia, chandotia-7407-jessor sadar,jessore",3,3,1
+MD Rabbi Hosssain,Field Officer,3,0,HSC,SUPPORT Operation,0,12000,NULL,26,Male,Unmarried,"lebutola, lebutola-7400,jessore sadar,jessore",3,3,1
+MD Sajib Hossain,Field Officer,2,0,HSC,SUPPORT Operation,0,12000,NULL,27,Male,Unmarried,"lebutola,lebutola-7400,jessore sadar,jessore",2,2,1
+MD Kamrul Islam,Branch Manager,2,0,B.B.S,SUPPORT Operation,0,18000,NULL,36,Male,Married,"purbo janiar bagan,joypurhat-5900,joypurhat sadar,joypurhat",2,2,1
+Shakir Ahmed ,Junior Officer,10,0,BSc,Human Resource,0,33080,NULL,NULL,NULL,NULL,,10,10,1
+Ms.ShohelaAkter,Junior Officer,92,7,HSC,Human Resource,0,5000,NULL,NULL,Female,Married,,92,92,0
+Mihir Kumar,Teller,41,3,NULL,Agent Banking Operation,0,0,NULL,NULL,Male,Unmarried,,41,41,0
+Md.MatlubarRahman,Branch Manager,33,33,BA(Pass),SUPPORT Operation,1,8030,1,NULL,Male,Married,,44,44,0
+Md.MatlubarRahman,Branch Manager,33,33,BA(Pass),SUPPORT Operation,1,8030,1,NULL,Male,Married,,44,44,0
+Md.ArifulIslam,Field Officer,38,3,BA(Pass),SUPPORT Operation,0,6000,NULL,NULL,Male,NULL,,38,38,0
+Md.KamrulHasan,Branch Manager,60,5,BA(Pass),SUPPORT Operation,0,8511,NULL,NULL,Male,Married,,60,60,0
+Md.GiasUddin,Regional Manager,55,4,NULL,SUPPORT Operation,0,18800,NULL,NULL,Male,Married,,55,55,0
+Md.GiasUddin,Regional Manager,55,4,NULL,SUPPORT Operation,0,18800,NULL,NULL,Male,Married,,55,55,0
+Naratam Kumar Biswas ,Field Officer,20,1,MA,SUPPORT Operation,0,5000,NULL,30,Male,Unmarried,Nasti,20,20,0
+Md.MizanurRahman,Field Officer,38,3,NULL,SUPPORT Operation,0,6000,NULL,NULL,Male,Married,,38,38,0
+Md Farhad Hossain  ,Branch Manager,14,1,MSS(Sociology),SUPPORT Operation,0,9000,NULL,33,Male,Unmarried,Borshikura,14,14,0
+Md.MofizurRahman,Branch Manager,83,7,HSC,SUPPORT Operation,0,7575,NULL,57,Male,Married,West Shenpara,83,83,0
+Sujon Chandra  ,Field Officer,14,1,BSc,SUPPORT Operation,0,6015,NULL,27,Female,Married,Mohishashahar,14,14,0
+Md.MashudRana,Field Officer,48,4,BA(Pass),SUPPORT Operation,0,5674,NULL,31,Male,NULL,,48,48,0
+Md.HamidulIslam,Branch Manager,59,5,NULL,SUPPORT Operation,0,9563,NULL,NULL,Male,Married,,59,59,0
+Md.RashedAli,Teller,66,5,MA,Agent Banking Operation,0,6000,NULL,43,Male,Married,,66,66,0
+Rakib Hossain,Field Officer,75,6,BA(Pass),SUPPORT Operation,0,6015,NULL,NULL,Male,Married,,75,75,0
+MdMizanurRahman,Field Officer,21,1,Alim,SUPPORT Operation,0,5000,NULL,31,Male,Married,Hoza Anatokandi,21,21,0
+Md HumayanKabirRakib,Field Officer,22,1,HSC,SUPPORT Operation,0,5000,NULL,26,Male,Unmarried,Gosaibari,22,22,0
+Amirul Islam,Field Officer,17,1,BA(Pass),SUPPORT Operation,0,5000,NULL,28,Male,Unmarried,20,17,17,0
+Md.JakariaHossain,Branch Manager,22,22,BA(Pass),SUPPORT Operation,1,6015,0,NULL,Male,Married,Md Jakaria Hossain,78,78,0
+Md Saiful Islam ,Field Officer,26,2,BA(Pass),SUPPORT Operation,0,12000,NULL,45,Male,Married,Shidhu Nagar,26,26,0
+Mohibur Rahman ,Field Officer,13,13,HSC,SUPPORT Operation,1,6015,1015,25,Male,Unmarried,Akhalia,20,20,0
+S.M. Delwar Hossain,Branch Manager,9,0,MSS(Sociology),SUPPORT Operation,0,9000,NULL,33,Male,Married,kazipur,9,9,0
+Liton Ali Munshi,Field Officer,9,0,HSC,SUPPORT Operation,0,6000,NULL,23,Male,NULL,Dhulgram,9,9,0
+Md Robiul Islam  ,Field Officer,13,1,HSC,SUPPORT Operation,0,6000,NULL,41,Male,Married,Chutiya,13,13,0
+MdRatanAli,Field Officer,11,1,HSC,SUPPORT Operation,0,6000,NULL,27,Male,Unmarried,Nolkhola,11,11,0
+Md Ashraful Shaikh  ,Field Officer,14,1,HSC,SUPPORT Operation,0,6015,NULL,24,Male,Unmarried,Milky DawaraSahikh Bari,14,14,0
+Md Merajul Islam Meraj  ,Assistant Branch Manager,19,1,MBA,SUPPORT Operation,0,6500,NULL,30,NULL,Unmarried,123/A Ghoshpara,19,19,0
+Md. Mahmud,Field Officer,64,5,HSC,SUPPORT Operation,0,5353,NULL,30,Male,Married,Golappur,64,64,0
+Abdul Mannan  ,Assistant Branch Manager,14,1,BA(Pass),SUPPORT Operation,0,8000,NULL,41,Male,Married,Belashi,14,14,0
+Raihanul Islam,Office Assistant,11,1,BBA,SUPPORT Operation,0,6000,NULL,27,Male,Unmarried,Kanchontola 1,11,11,0
+MdLitonHossen,Field Officer,11,11,BSS,SUPPORT Operation,1,6000,1000,26,Male,Unmarried,Amgoshpara,20,20,0
+Akash Hossain ,Field Officer,13,13,HSC,SUPPORT Operation,1,6015,1015,22,Male,Married,Gopalpur Vadutia,22,22,0
+Md AbdulMominPramanik,Field Officer,11,1,M.com (Accounting),SUPPORT Operation,0,6000,NULL,41,Male,Married,Kazi para,11,11,0
+MdSaifulIslam,Branch Manager,11,1,B.com,SUPPORT Operation,0,9000,NULL,48,Male,Married,Putiali,11,11,0
+Md. Zafar  ,Field Officer,9,0,HSC,SUPPORT Operation,0,6000,NULL,NULL,Male,Unmarried,deyoli para ( port),9,9,0
+Md.MotierRahman,Branch Manager,57,57,MA,SUPPORT Operation,1,10137,1,NULL,Male,Married,,63,63,0
+MD. Sanaul Islam,Field Officer,5,0,BBA,SUPPORT Operation,0,12000,NULL,25,Male,Unmarried,chandroproshadsikdar bari,5,5,0
+Md Raihan  ,Field Officer,4,0,HSC,SUPPORT Operation,0,12536,NULL,NULL,Male,Unmarried,"makapur,sukpukoria-7410,chowgacha ,Jessore",4,4,0
+Sumon Kumar,Teller,66,5,BSS,Agent Banking Operation,0,6000,NULL,35,Male,Married,Pirojpur,66,66,0
+Md.JulhasMolla,Executive Officer,51,4,NULL,Support Accounts,0,15000,NULL,NULL,Male,Married,,51,51,0
+MdArifulIslam,Field Officer,16,16,HSC,SUPPORT Operation,1,6015,1015,21,Male,Unmarried,Rahi,22,22,0
+KamolChandroBarmon,Branch Manager,7,0,MA,SUPPORT Operation,0,18000,NULL,30,Male,Unmarried,bellgacha,7,7,0
+Md NekbarAliShah,Branch Manager,11,1,MA,SUPPORT Operation,0,9000,NULL,46,Male,Married,Chakgobinda,11,11,0
+Imarat Hossen,Field Officer,8,0,HSC,SUPPORT Operation,0,6000,NULL,22,Male,Unmarried,vandarkhola,8,8,0
+Md Raihan  ,Field Officer,4,0,HSC,SUPPORT Operation,0,12536,NULL,NULL,Male,Unmarried,"makapur,sukpukoria-7410,chowgacha ,Jessore",4,4,0
+Lalchand Hossain  ,Field Officer,10,0,HSC,SUPPORT Operation,0,6000,NULL,23,Male,Married,Badurgacha,10,10,0
+HasanAliMolla,Field Officer,5,0,HSC,SUPPORT Operation,0,12000,NULL,24,Male,Unmarried,"vill: joyar, PO: moishathuni-9242,Rupsha,Khulna21",5,5,0
+Md. Sirajul Islam,Field Officer,8,0,HSC,SUPPORT Operation,0,6000,NULL,22,Male,Married,West Bonkirhat,8,8,0
