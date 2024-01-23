@@ -1,4 +1,4 @@
-Name,DesignationName,CurrentJobPosition,NumberofMonthsLastPromotions,Education,DepartmentName,TotalPromotions,Salary,lastSalaryHike,Age,Gender,MaritalStatus,Address,TotalYearCompany,TotalExperience,Attrition
+Name,JobRule,CurrentJobPosition,NumberofMonthsLastPromotions,Education,DepartmentName,TotalPromotions,Salary,lastSalaryHike,Age,Gender,MaritalStatus,Address,TotalYearCompany,TotalExperience,Attrition
 FulMiaTukdar,Regional Manager,180,15,NULL,SUPPORT Operation,0,12500,NULL,NULL,Male,Married,,180,180,1
 DipankurChandraDas,Branch Manager,26,26,BA(Pass),SUPPORT Operation,1,6015,0,NULL,Male,NULL,,94,94,1
 Emran Hossain,Office Assistant,262,21,PSC,SUPPORT Operation,0,4224,NULL,NULL,Male,Married,,262,262,1
